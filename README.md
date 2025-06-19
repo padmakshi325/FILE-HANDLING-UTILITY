@@ -44,7 +44,9 @@ OS: Windows 10/11
 Dependencies: No external libraries; uses core Java APIs only.
 This utility serves as a beginner-friendly yet practical example of file management in Java, ideal for students, developers, or anyone learning Java I/O for the first time. It reflects real-world applications such as logging, configuration management, and simple data storage.The project also reinforces key Java programming concepts such as object-oriented design, exception propagation, buffered streams, and system-level file access, making it a solid foundational exercise in core Java.The project emphasizes the importance of efficient resource management by incorporating proper stream closing techniques using try-with-resources. It also highlights the practical benefits of Java’s platform independence, allowing the program to be executed across various systems without modification, further demonstrating the language’s robustness in handling real-world applications.
 
+#OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/703ecead-5d2f-4086-9f4b-d02a7b938830)
 
 
 
